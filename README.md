@@ -1,4 +1,20 @@
-### Hi there 👋
+<div align='center'>
+
+# Roi Shacham 
+
+
+
+
+![](https://github.com/rshacham/Git-Stats/blob/master/generated/overview.svg)
+![](https://github.com/rshacham/Git-Stats/blob/master/generated/languages.svg)
+
+# Languages
+
+<div align='left'>
+
+Developer from Jerusalem
+
+- Computer science student at the **Hebrew University of Jerusalem**. Video Games developing minor at **Bezalel Academy of Arts and Design**.
 
 <!--
 **rshacham/rshacham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
