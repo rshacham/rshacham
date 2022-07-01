@@ -40,7 +40,9 @@
 
 Developer from Jerusalem
 
-- Computer science student at the **Hebrew University of Jerusalem**. Video Games developing minor at **Bezalel Academy of Arts and Design**.
+- 🌱 Computer science student at the **Hebrew University of Jerusalem**. Video Games developing minor at **Bezalel Academy of Arts and Design**.
+
+- 📫 Feel free to contact me at shacham222222@gmail.com
 
 <!--
 **rshacham/rshacham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
